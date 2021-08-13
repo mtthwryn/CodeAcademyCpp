@@ -40,3 +40,5 @@ int main() {
   }
   
 }
+
+// output is "Blastoise"
